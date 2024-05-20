@@ -1,0 +1,39 @@
+Test Suite No1
+Length = 1	Width = 1
+Area = 1
+
+Test Suite No2
+Length = 2	Width = 3
+Area = 6
+
+Test Suite No3
+Length = 0	Width = 5
+Area = 0
+
+Test Suite No4
+Length = 3	Width = 2.5
+Area = 7.5
+
+Test Suite No5
+Length = 10	Width = 10
+Area = 100
+
+Test Suite No6
+Length = 0.5	Width = 0.5
+Area = 0.25
+
+Test Suite No7
+Length = 7	Width = 8
+Area = 56
+
+Test Suite No8
+Length = 1.1	Width = 2.2
+Area = 2.42
+
+Test Suite No9
+Length = 4	Width = 4
+Area = 16
+
+Test Suite No10
+Length = 6.5	Width = 3.2
+Area = 20.8
